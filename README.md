@@ -2,7 +2,9 @@
 
 # Modern Java - A Guide to Java 8
 Explicacion blog: http://winterbe.com/posts/2014/03/16/java-8-tutorial/
+
 Tutorial Java 11: https://winterbe.com/posts/2018/09/24/java-11-tutorial/) (including new language and API features from Java 9, 10 and 11).**
+
 
 Download Java 8: http://download.java.net/jdk8/docs/api/
 
