@@ -1,19 +1,10 @@
 # java8-tutorial
 
 # Modern Java - A Guide to Java 8
-_This article was originally posted on [my blog](http://winterbe.com/posts/2014/03/16/java-8-tutorial/)._
+Explicacion blog: http://winterbe.com/posts/2014/03/16/java-8-tutorial/
+Tutorial Java 11: https://winterbe.com/posts/2018/09/24/java-11-tutorial/) (including new language and API features from Java 9, 10 and 11).**
 
-> **You should also read my [Java 11 Tutorial](https://winterbe.com/posts/2018/09/24/java-11-tutorial/) (including new language and API features from Java 9, 10 and 11).**
-
-Welcome to my introduction to [Java 8](https://jdk8.java.net/). This tutorial guides you step by step through all new language features. Backed by short and simple code samples you'll learn how to use default interface methods, lambda expressions, method references and repeatable annotations. At the end of the article you'll be familiar with the most recent [API](http://download.java.net/jdk8/docs/api/) changes like streams, functional interfaces, map extensions and the new Date API. **No walls of text, just a bunch of commented code snippets. Enjoy!**
-
----
-
-<p align="center">
- ★★★ Like this project? Leave a star, <a href="https://twitter.com/winterbe_">follow on Twitter</a> or <a href="https://www.paypal.me/winterbe">donate</a> to support my work. Thanks! ★★★
-</p>
-
----
+Download Java 8: http://download.java.net/jdk8/docs/api/
 
 ## Table of Contents
 
@@ -799,9 +790,10 @@ Furthermore the usage of annotations in Java 8 is expanded to two new targets:
 
 ## Where to go from here?
 
-My programming guide to Java 8 ends here. If you want to learn more about all the new classes and features of the JDK 8 API, check out my [JDK8 API Explorer](http://winterbe.com/projects/java8-explorer/). It helps you figuring out all the new classes and hidden gems of JDK 8, like `Arrays.parallelSort`, `StampedLock` and `CompletableFuture` - just to name a few.
+http://winterbe.com/projects/java8-explorer/
+It helps you figuring out all the new classes and hidden gems of JDK 8, like `Arrays.parallelSort`, `StampedLock` and `CompletableFuture` - just to name a few.
 
-I've also published a bunch of follow-up articles on my [blog](http://winterbe.com) that might be interesting to you:
+Muy buen Blog:
 
 - [Java 8 Stream Tutorial](http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/)
 - [Java 8 Nashorn Tutorial](http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/)
@@ -813,4 +805,3 @@ I've also published a bunch of follow-up articles on my [blog](http://winterbe.c
 - [Fixing Java 8 Stream Gotchas with IntelliJ IDEA](http://winterbe.com/posts/2015/03/05/fixing-java-8-stream-gotchas-with-intellij-idea/)
 - [Using Backbone.js with Java 8 Nashorn](http://winterbe.com/posts/2014/04/07/using-backbonejs-with-nashorn/)
 
-You should [follow me on Twitter](https://twitter.com/winterbe_). Thanks for reading!
